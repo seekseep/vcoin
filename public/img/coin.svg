@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="256px" height="256px" viewBox="0 0 256 256" enable-background="new 0 0 256 256" xml:space="preserve">
+<polygon points="96,0 96,16 64,16 64,32 48,32 48,64 32,64 32,192 48,192 48,224 64,224 64,240 96,240 96,256 160,256 160,240 
+	192,240 192,224 208,224 208,192 224,192 224,64 208.001,64 208,32 192.001,32 192,16 160,16 160,0 "/>
+<polygon fill="#FFFFFF" points="64,64 48,64 48,192 64,192 64,224 96,224 96,240 160,240 160,224 192,224 192,192 208,192 208,64 
+	192.001,64 192,32 160,32 160,16 96,16 96,32 64,32 "/>
+<g>
+	<rect x="176.001" y="32" fill="#D89E36" width="16" height="32"/>
+	<rect x="192.001" y="64" fill="#D89E36" width="16" height="128"/>
+	<polygon fill="#D89E36" points="176.001,208 160.001,208 160.001,224 176.001,224 192.001,224 192.001,192 176.001,192 	"/>
+	<rect x="96.001" y="224" fill="#D89E36" width="64" height="16"/>
+</g>
+<g>
+	<polygon fill="#F8F800" points="80.001,208 96.001,208 112.001,208 112.001,192 96.001,192 96.001,64 80.001,64 	"/>
+	<rect x="144.001" y="192" fill="#F8F800" width="16" height="16"/>
+	<rect x="160.001" y="64" fill="#F8F800" width="16" height="128"/>
+	<rect x="144.001" y="48" fill="#F8F800" width="16" height="16"/>
+	<rect x="112.001" y="64" fill="#F8F800" width="16" height="96"/>
+	<rect x="96.001" y="48" fill="#F8F800" width="16" height="16"/>
+</g>
+<g>
+	<rect x="144" y="64" width="16" height="128"/>
+	<rect x="112" y="192" width="32" height="16"/>
+</g>
+<g>
+	<polygon fill="#F8D81E" points="80,64 64,64 64,224 80,224 160,224 160,208 80,208 	"/>
+	<rect x="160" y="192" fill="#F8D81E" width="16" height="16"/>
+	<rect x="176" y="64" fill="#F8D81E" width="16" height="128"/>
+	<polygon fill="#F8D81E" points="160,64 176,64 176,48 176,32 160,32 96,32 96,48 160,48 	"/>
+	<rect x="80" y="48" fill="#F8D81E" width="16" height="16"/>
+	<polygon fill="#F8D81E" points="128,160 112,160 112,192 128,192 144,192 144,160 144,64 128,64 	"/>
+</g>
+</svg>
