@@ -74,7 +74,7 @@ navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia 
             'audio': false
         },
         function(stream) {
-            video.src = window.URL.createObjectURL(stream); // video.mozSrcObject = stream;
+            video.srcObject = stream;
         },
         function(error) {
             alert('エラー: ' + error);
